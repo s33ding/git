@@ -53,4 +53,5 @@ In this repository I show some Git commands that I learned when I was studying.
 
 - git add filename_1 filename_2
 
+[Git Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=GitExtensionsApp.v341)
 
