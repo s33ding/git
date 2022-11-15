@@ -36,3 +36,21 @@ In this repository I show some Git commands that I learned when I was studying.
 > Write a commit with a log message
 
 - git commit (without -m "message", this will open a file with a test editor)
+
+> Discards changes in the working directory.
+
+- git checkout HEAD filename: 
+
+> Unstages file changes in the staging area:
+
+- git reset HEAD filename. 
+
+> Resets to a previous commit in your commit history: 
+
+- git reset commit_SHA.
+
+> You also can add multiple files to the staging area with a single command:
+
+- git add filename_1 filename_2
+
+
